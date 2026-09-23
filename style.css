@@ -1,0 +1,4 @@
+/* Transición suave al cambiar tamaño de la imagen */
+#image {
+    transition: all 0.3s ease;
+}
